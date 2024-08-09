@@ -6,10 +6,11 @@
 --- 
 
 # **📜 Table of Contents**
-- Project Overview
-- Installation 
+- Project Overview 
+- Project Setup Guide
 - Usage
 - Contributing
+- Contact
 --- 
 
 ## **📝 Project Overview**
@@ -27,38 +28,55 @@ This repository contains a collection of five Python projects:
    Play the classic game in the terminal.
 
 --- 
+# Project Setup Guide
 
-## **🚀 Installation**
-Follow these steps to set up the projects locally:
+## Prerequisites
 
-#### Clone the Repository:
+Before setting up the project, ensure you have the following installed:
 
-- git clone :
-https://github.com/Amnasabahat/Codsoft.git
+- **[Python](https://www.python.org/downloads/)**: Make sure Python is installed on your system. You can verify this by running `python --version` in your terminal.
+- **[Visual Studio Code](https://code.visualstudio.com/)**: A code editor for managing and running your Python projects.
+- **[Git](https://git-scm.com/)**: Version control system for cloning the repository and managing code changes.
 
-- Navigate to the Project Directory:
-**cd repositoryname**
+## Installation Steps
 
-- Install Python Extension for VS Code:
+### 1. Install Python Extension in VS Code
 
---- 
-## 🛠 Usage
-Execute each project with the following commands:
+1. **Open VS Code**.
+2. Go to the **Extensions view** by clicking the Extensions icon in the Activity Bar on the side of the window or pressing `Ctrl+Shift+X`.
+3. Search for **"Python"** and install the extension provided by **Microsoft**.
 
-#### To-Do List:
-- to-do-list.py
+   ![Python Extension](https://img.shields.io/badge/extension-Python-blue)
 
-#### Calculator:
-- calculator.py
+4. Once installed, **restart VS Code** to enable the extension.
 
-#### Contact Book:
-- contact book.py
+### 2. Clone the Repository
 
-#### Password Generator:
-- password-generator.py
+1. **Open Terminal** in VS Code .
+2. **Clone the repository** by running the following command:
 
-#### Rock-Paper-Scissor:
-- rock-paper-scissor.py
+   ```bash
+   git clone https://github.com/username/repository.git
+3. **Navigate to the Project Directory**
+   
+    ```bash
+   cd repository
+##  **🛠Usage**
+ **To-do-list**
+   
+    to-do-list.py
+  **calculator**
+  
+     calculator.py
+  **Contact Book**
+
+     contact book.py
+  **Password Generator**
+
+     password-generator.py
+  **Rock-Paper-Scissor**
+  
+      rock-paper-scissor.py
 
 --- 
 
