@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.x-blue.svg" alt="Python Version">
 </p>
+
 --- 
 
 # **📜 Table of Contents**
